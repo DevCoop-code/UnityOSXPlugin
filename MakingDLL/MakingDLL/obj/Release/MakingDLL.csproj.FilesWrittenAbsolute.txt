@@ -1,0 +1,5 @@
+/Users/DINO2/Desktop/MakingDLL/MakingDLL/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/DINO2/Desktop/MakingDLL/MakingDLL/bin/Release/MakingDLL.dll.mdb
+/Users/DINO2/Desktop/MakingDLL/MakingDLL/bin/Release/MakingDLL.dll
+/Users/DINO2/Desktop/MakingDLL/MakingDLL/obj/Release/MakingDLL.dll
+/Users/DINO2/Desktop/MakingDLL/MakingDLL/obj/Release/MakingDLL.dll.mdb
